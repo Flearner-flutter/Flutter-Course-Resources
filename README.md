@@ -145,7 +145,7 @@
 * [HTTP Package API Reference](https://pub.dartlang.org/documentation/http/latest/)
 * [HTTP Response Class Documentation](https://pub.dartlang.org/documentation/http/latest/http/Response-class.html)
 * [List of HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
-* [Chrome Plugin for Formatting and Viewing JSON](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe?hl=en)
+* [Chrome Plugin for Formatting and Viewing JSON](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc?hl=ko)
 * [JSON Mate: Formatting and Viewing JSON without a plugin](http://jsonmate.com/)
 * [Loading Indicators from the Flutter Spinkit](https://pub.dartlang.org/packages/flutter_spinkit)
 * [The State Class](https://api.flutter.dev/flutter/widgets/State-class.html)
