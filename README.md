@@ -132,7 +132,7 @@
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
  
-* [Clima Stub Project](https://github.com/londonappbrewery/Clima-Flutter)
+* [Clima Stub Project](https://github.com/Flearner-flutter/Clima-Flutter-Flearner)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [Android X Compatilibity](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
 * [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
@@ -152,7 +152,7 @@
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://api.flutter.dev/flutter/material/TextField-class.html)
-* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
+* [Clima Completed Project](https://github.com/Flearner-flutter/clima-flutter-complete)
 
 ## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
