@@ -1,5 +1,8 @@
 # Flutter-Course-Resources
 21.11.11 기준 리소스 업데이트
+- section 7 까지 검수 완
+- section 6 의 stub project, completed project 추가 필요
+- section 7 completed project 
 
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
@@ -20,9 +23,11 @@
 ## Section 3: I Am Rich - How to Create Flutter Apps from Scratch
 
 * [Material Design](https://material.io/)
+* [Material Design3](https://m3.material.io/)
 * [Scaffold Documentation](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 * [AppBar Documentation](https://api.flutter.dev/flutter/material/AppBar-class.html)
 * [Material Design Colour System](https://material.io/design/color/the-color-system.html)
+* [Material Design3 Colour System](https://m3.material.io/styles/color/the-color-system/key-colors-tones)
 * [Image Widget Documentation](https://api.flutter.dev/flutter/widgets/Image-class.html)
 * [Make Flowcharts with Draw.io](https://www.draw.io/)
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
@@ -63,7 +68,7 @@
 
 ## Section 7: Dicee - Building Apps with State
 
-* [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
+* [Dicee Stub Project](https://github.com/Flearner-flutter/dicee-flutter-flearner)
 * [Expanded Class](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://api.flutter.dev/flutter/widgets/Image-class.html)
 * [FlatButton Documentation](https://api.flutter.dev/flutter/material/FlatButton-class.html)
