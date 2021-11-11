@@ -1,8 +1,6 @@
 # Flutter-Course-Resources
 21.11.11 기준 리소스 업데이트
 - section 7 까지 검수 완
-- section 6 의 stub project, completed project 추가 필요
-- section 7 completed project
 - material Design3 관련 링크 추가 
 
 
@@ -50,7 +48,7 @@
 
 ## Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
 
-* [MiCard Stub Project](https://github.com/londonappbrewery/mi_card_flutter)
+* [MiCard Stub Project](https://github.com/Flearner-flutter/mi_card_flutter_flearner)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://api.flutter.dev/flutter/widgets/Container-class.html)
 * [Column Documentation](https://api.flutter.dev/flutter/widgets/Column-class.html)
@@ -65,7 +63,7 @@
 * [The Padding Class](https://api.flutter.dev/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://api.flutter.dev/flutter/material/Divider-class.html)
-* [MiCard Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
+* [MiCard Completed Project](https://github.com/Flearner-flutter/mi-card-completed)
 
 ## Section 7: Dicee - Building Apps with State
 
@@ -76,7 +74,7 @@
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
-* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [Dicee Completed Project](https://github.com/Flearner-flutter/Dicee-Flutter-Completed)
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
