@@ -1,8 +1,7 @@
 # Flutter-Course-Resources
 21.11.11 기준 리소스 업데이트
-- section 10 까지 검수 완
+- section 11 까지 검수 완
 - material Design3 관련 링크 추가
-- Quizzler Startting file for challenge 체크 필요
 
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
@@ -97,13 +96,13 @@
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
-* [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
+* [Quizzler Starting File for Challenge](https://github.com/Flearner-flutter/Quizzler-Challenge-Starting)
 * [Quizzler Solution & Completed Project](https://github.com/Flearner-flutter/Quizzler-Completed)
 
 ## Section 11: Boss Level Challenge 2 - Destini
 
-* [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
-* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
+* [Destini Stub](https://github.com/Flearner-flutter/destini-chanllange-starting-flearner)
+* [Destini Solution & Completed Project](https://github.com/Flearner-flutter/destini-challenge-completed)
 
 ## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 
