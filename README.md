@@ -1,7 +1,8 @@
 # Flutter-Course-Resources
 21.11.11 기준 리소스 업데이트
-- section 7 까지 검수 완
-- material Design3 관련 링크 추가 
+- section 10 까지 검수 완
+- material Design3 관련 링크 추가
+- Quizzler Startting file for challenge 체크 필요
 
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
@@ -78,27 +79,26 @@
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+* [Magic 8 Ball Stub](https://github.com/Flearner-flutter/magic-8-ball-flutter-flearner)
 
 ## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
-* [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
+* [XyloPhone Stub Project](https://github.com/Flearner-flutter/Xylophone_flutter_flearner)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
 * [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
-* [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 * [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
+* [Xylophone Completed Project](https://github.com/Flearner-flutter/Xylophone-Flutter-Completed)
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
 
-* [Quizzler Stub Project](https://github.com/londonappbrewery/quizzler-flutter)
+* [Quizzler Stub Project](https://github.com/Flearner-flutter/quizzler-flutter-flearner)
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
-* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution & Completed Project](https://github.com/Flearner-flutter/Quizzler-Completed)
 
 ## Section 11: Boss Level Challenge 2 - Destini
 
