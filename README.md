@@ -1,6 +1,6 @@
 # Flutter-Course-Resources
 21.11.11 기준 리소스 업데이트
-- section 13 까지 검수 완
+- section 14 까지 검수 완
 - material Design3 관련 링크 추가
 
 
@@ -156,7 +156,7 @@
 
 ## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
-* [Bitcoin Ticker Stub Project](https://github.com/londonappbrewery/bitcoin-ticker-flutter)
+* [Bitcoin Ticker Stub Project](https://github.com/Flearner-flutter/bitcoin-ticker-flutter-flearner)
 * [Flutter DropdownButton](https://api.flutter.dev/flutter/material/DropdownButton-class.html)
 * [Dropdown Menu Design](https://material.io/design/components/menus.html#dropdown-menu)
 * [99 Bottles of Beer Programming Language Collection](http://www.99-bottles-of-beer.net/)
@@ -165,10 +165,10 @@
 * [CupertinoPicker Class Documentation](https://api.flutter.dev/flutter/cupertino/CupertinoPicker-class.html)
 * [Register for a coinapi.io API key](https://www.coinapi.io/Pricing)
 * [Coin API Docs](https://docs.coinapi.io/)
-* [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
-* [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
-* [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
-* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
+* [Bronze Challenge Start Code](https://github.com/Flearner-flutter/bitcoin-challenge-bronze-start)
+* [Silver Challenge Starter Code](https://github.com/Flearner-flutter/bitcoin-challenge-silver-start)
+* [Gold Challenge Starter Code](https://github.com/Flearner-flutter/bitcoin-challenage-gold-start)
+* [Bitcoin Completed Project](https://github.com/Flearner-flutter/bitcoin-ticker-completed)
 
 ## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
 
