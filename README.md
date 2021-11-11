@@ -2,7 +2,8 @@
 21.11.11 기준 리소스 업데이트
 - section 7 까지 검수 완
 - section 6 의 stub project, completed project 추가 필요
-- section 7 completed project 
+- section 7 completed project
+- material Design3 관련 링크 추가 
 
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
