@@ -1,6 +1,6 @@
 # Flutter-Course-Resources
 21.11.11 기준 리소스 업데이트
-- section 11 까지 검수 완
+- section 13 까지 검수 완
 - material Design3 관련 링크 추가
 
 
@@ -125,10 +125,10 @@
 * [ShapeBorder Class](https://api.flutter.dev/flutter/painting/ShapeBorder-class.html)
 * [RawMaterialButton Class](https://api.flutter.dev/flutter/material/RawMaterialButton-class.html)
 * [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
-* [LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
+* [LAB Navigation Demo](https://github.com/Flearner-flutter/navigation-flutter-demo)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
-* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
+* [BMI Completed Project](https://github.com/Flearner-flutter/bmi-calculator-flutter-completed)
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
  
