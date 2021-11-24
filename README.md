@@ -5,6 +5,7 @@
 
 21.11.24
 - Flatbutton 관련 자료 -> TextButton으로 교체
+- Magic 8 ball 완성본 링크 추가
 
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
@@ -82,6 +83,7 @@
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
 * [Magic 8 Ball Stub](https://github.com/Flearner-flutter/magic-8-ball-flutter-flearner)
+* [Magic 8 Ball Completed Project](https://github.com/Flearner-flutter/magic_8_ball_completed)
 
 ## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
