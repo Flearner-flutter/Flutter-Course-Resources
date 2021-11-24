@@ -1,7 +1,9 @@
 # Flutter-Course-Resources
-21.11.11 기준 리소스 업데이트
+21.11.11
 - section 14 까지 검수 완
 - material Design3 관련 링크 추가
+21.11.24
+- Flatbutton 관련 자료 -> TextButton으로 교체
 
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
@@ -70,7 +72,7 @@
 * [Dicee Stub Project](https://github.com/Flearner-flutter/dicee-flutter-flearner)
 * [Expanded Class](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://api.flutter.dev/flutter/widgets/Image-class.html)
-* [FlatButton Documentation](https://api.flutter.dev/flutter/material/FlatButton-class.html)
+* [TextButton Documentation](https://api.flutter.dev/flutter/material/TextButton-class.html)
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
