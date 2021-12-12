@@ -7,6 +7,8 @@
 - Flatbutton 관련 자료 -> TextButton으로 교체
 - Magic 8 ball 완성본 링크 추가
 
+21.12.13
+- section 16 검수 완 (State Management Example 업데이트 제외)
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
