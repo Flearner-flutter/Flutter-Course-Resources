@@ -214,4 +214,4 @@
 * [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
 * [The Provider Package](https://pub.dev/packages/provider)
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
-* [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+* [Todoey Completed Project](https://github.com/Flearner-flutter/todoey-flutter-flearner)
