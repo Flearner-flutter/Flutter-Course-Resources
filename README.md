@@ -111,7 +111,7 @@
 
 ## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 
-* [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
+* [BMI Stub Project](https://github.com/Flearner-flutter/bmi-calculator-flutter-flearner)
 * [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
 * [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 * [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
