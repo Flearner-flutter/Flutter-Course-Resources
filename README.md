@@ -8,6 +8,7 @@
 - Magic 8 ball 완성본 링크 추가
 
 21.12.13
+- section 15 검수 완 (Flash chat completed project는 lib 코드만 업로드)
 - section 16 검수 완 (State Management Example 업데이트 제외)
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
