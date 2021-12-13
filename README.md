@@ -179,7 +179,7 @@
 
 ## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
 
-* [Flash Chat Stub Project](https://github.com/londonappbrewery/flash-chat-flutter)
+* [Flash Chat Stub Project](https://github.com/Flearner-flutter/flash-chat-flutter-flearner)
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
 * [Hero Animations](https://flutter.dev/docs/development/ui/animations/hero-animations)
 * [Curves Class Documentation](https://api.flutter.dev/flutter/animation/Curves-class.html)
