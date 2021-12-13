@@ -203,7 +203,7 @@
 * [AsyncSnapshot Class Documentation](https://api.flutter.dev/flutter/widgets/AsyncSnapshot-class.html)
 * [ListView Class Documentation](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
-* [Flash Chat Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
+* [Flash Chat Completed Project](https://github.com/Flearner-flutter/Flash-chat-completed) : 보안 이슈로 lib만 업로드하니 해당 코드만 참고해주세요. :)
 
 ## Section 16: Flutter State Management
 
